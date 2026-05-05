@@ -1,0 +1,1509 @@
+Monitor | Queue length: 0 | CPU usage: 0
+Monitor | Queue length: 0 | CPU usage: 10
+Monitor | Queue length: 0 | CPU usage: 20
+Monitor | Queue length: 0 | CPU usage: 20
+Monitor | Queue length: 0 | CPU usage: 30
+Monitor | Queue length: 0 | CPU usage: 30
+Monitor | Queue length: 0 | CPU usage: 40
+Monitor | Queue length: 0 | CPU usage: 40
+Monitor | Queue length: 0 | CPU usage: 75
+Monitor | Queue length: 0 | CPU usage: 75
+Monitor | Queue length: 0 | CPU usage: 85
+Monitor | Queue length: 0 | CPU usage: 85
+Monitor | Queue length: 0 | CPU usage: 95
+Monitor | Queue length: 0 | CPU usage: 95
+Monitor | Queue length: 1 | CPU usage: 95
+Monitor | Queue length: 1 | CPU usage: 95
+Monitor | Queue length: 2 | CPU usage: 95
+Monitor | Queue length: 2 | CPU usage: 95
+Monitor | Queue length: 3 | CPU usage: 95
+Monitor | Queue length: 3 | CPU usage: 95
+Worker 0 completed task 0
+Monitor | Queue length: 4 | CPU usage: 85
+Monitor | Queue length: 4 | CPU usage: 85
+Worker 1 completed task 1
+Monitor | Queue length: 3 | CPU usage: 95
+Monitor | Queue length: 3 | CPU usage: 95
+Worker 2 completed task 2
+Monitor | Queue length: 3 | CPU usage: 95
+Monitor | Queue length: 3 | CPU usage: 95
+Worker 3 completed task 3
+Monitor | Queue length: 3 | CPU usage: 95
+Monitor | Queue length: 3 | CPU usage: 95
+Worker 4 completed task 4
+Monitor | Queue length: 2 | CPU usage: 80
+Monitor | Queue length: 2 | CPU usage: 80
+Worker 5 completed task 5
+Monitor | Queue length: 3 | CPU usage: 70
+Monitor | Queue length: 3 | CPU usage: 70
+Worker 6 completed task 6
+Monitor | Queue length: 3 | CPU usage: 70
+Monitor | Queue length: 3 | CPU usage: 70
+Monitor | Queue length: 4 | CPU usage: 70
+Monitor | Queue length: 4 | CPU usage: 70
+Monitor | Queue length: 4 | CPU usage: 80
+Monitor | Queue length: 4 | CPU usage: 80
+Monitor | Queue length: 5 | CPU usage: 80
+Monitor | Queue length: 5 | CPU usage: 80
+Monitor | Queue length: 5 | CPU usage: 90
+Monitor | Queue length: 5 | CPU usage: 90
+Worker 7 completed task 7
+Worker 0 completed task 8
+Monitor | Queue length: 6 | CPU usage: 70
+Monitor | Queue length: 6 | CPU usage: 70
+Worker 1 completed task 9
+Monitor | Queue length: 6 | CPU usage: 70
+Monitor | Queue length: 6 | CPU usage: 70
+Worker 2 completed task 11
+Monitor | Queue length: 6 | CPU usage: 70
+Monitor | Queue length: 6 | CPU usage: 70
+Worker 3 completed task 12
+Worker 4 completed task 13
+Monitor | Queue length: 5 | CPU usage: 95
+Monitor | Queue length: 5 | CPU usage: 95
+Monitor | Queue length: 6 | CPU usage: 95
+Monitor | Queue length: 6 | CPU usage: 95
+Worker 5 completed task 16
+Monitor | Queue length: 6 | CPU usage: 95
+Monitor | Queue length: 6 | CPU usage: 95
+Monitor | Queue length: 7 | CPU usage: 95
+Monitor | Queue length: 7 | CPU usage: 95
+Worker 6 completed task 18
+Monitor | Queue length: 7 | CPU usage: 95
+Monitor | Queue length: 7 | CPU usage: 95
+Monitor | Queue length: 8 | CPU usage: 95
+Monitor | Queue length: 8 | CPU usage: 95
+Monitor | Queue length: 9 | CPU usage: 95
+Monitor | Queue length: 9 | CPU usage: 95
+Worker 7 completed task 20
+Monitor | Queue length: 9 | CPU usage: 95
+Monitor | Queue length: 9 | CPU usage: 95
+Worker 0 completed task 22
+Monitor | Queue length: 9 | CPU usage: 95
+Monitor | Queue length: 9 | CPU usage: 95
+Worker 1 completed task 23
+Monitor | Queue length: 9 | CPU usage: 95
+Monitor | Queue length: 9 | CPU usage: 95
+Worker 3 completed task 10
+Worker 2 completed task 24
+Monitor | Queue length: 6 | CPU usage: 90
+Monitor | Queue length: 6 | CPU usage: 90
+Monitor | Queue length: 6 | CPU usage: 100
+Monitor | Queue length: 6 | CPU usage: 100
+Worker 4 completed task 25
+Monitor | Queue length: 6 | CPU usage: 100
+Monitor | Queue length: 6 | CPU usage: 100
+Monitor | Queue length: 7 | CPU usage: 100
+Monitor | Queue length: 7 | CPU usage: 100
+Worker 5 completed task 26
+Monitor | Queue length: 7 | CPU usage: 100
+Monitor | Queue length: 7 | CPU usage: 100
+Monitor | Queue length: 8 | CPU usage: 100
+Monitor | Queue length: 8 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Worker 6 completed task 27
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Worker 7 completed task 28
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Worker 0 completed task 29
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Worker 1 completed task 30
+Worker 3 completed task 32
+Worker 2 completed task 33
+Monitor | Queue length: 7 | CPU usage: 100
+Monitor | Queue length: 7 | CPU usage: 100
+Monitor | Queue length: 8 | CPU usage: 100
+Monitor | Queue length: 8 | CPU usage: 100
+Worker 4 completed task 34
+Monitor | Queue length: 8 | CPU usage: 100
+Monitor | Queue length: 8 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Worker 5 completed task 35
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 9 | CPU usage: 100
+Monitor | Queue length: 10 | CPU usage: 100
+Monitor | Queue length: 10 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Worker 6 completed task 36
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Worker 7 completed task 37
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Worker 0 completed task 38
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Worker 1 completed task 39
+Worker 3 completed task 41
+Worker 2 completed task 42
+Monitor | Queue length: 10 | CPU usage: 90
+Monitor | Queue length: 10 | CPU usage: 90
+Monitor | Queue length: 10 | CPU usage: 100
+Worker 4 completed task 43
+Monitor | Queue length: 10 | CPU usage: 90
+Monitor | Queue length: 10 | CPU usage: 100
+Monitor | Queue length: 10 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Worker 5 completed task 44
+Monitor | Queue length: 11 | CPU usage: 90
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 11 | CPU usage: 100
+Monitor | Queue length: 12 | CPU usage: 100
+Monitor | Queue length: 12 | CPU usage: 100
+Monitor | Queue length: 13 | CPU usage: 100
+Monitor | Queue length: 13 | CPU usage: 100
+Worker 6 completed task 45
+Monitor | Queue length: 13 | CPU usage: 100
+Monitor | Queue length: 13 | CPU usage: 100
+Worker 7 completed task 47
+Monitor | Queue length: 13 | CPU usage: 100
+Monitor | Queue length: 13 | CPU usage: 100
+Worker 0 completed task 48
+Monitor | Queue length: 13 | CPU usage: 100
+Monitor | Queue length: 13 | CPU usage: 100
+Worker 1 completed task 51
+Worker 3 completed task 52
+Worker 2 completed task 53
+Monitor | Queue length: 13 | CPU usage: 80
+Monitor | Queue length: 13 | CPU usage: 80
+Monitor | Queue length: 13 | CPU usage: 90
+Worker 4 completed task 54
+Monitor | Queue length: 13 | CPU usage: 80
+Monitor | Queue length: 13 | CPU usage: 90
+Monitor | Queue length: 13 | CPU usage: 90
+Monitor | Queue length: 14 | CPU usage: 90
+Worker 5 completed task 55
+Monitor | Queue length: 14 | CPU usage: 80
+Monitor | Queue length: 14 | CPU usage: 90
+Monitor | Queue length: 14 | CPU usage: 90
+Monitor | Queue length: 14 | CPU usage: 100
+Monitor | Queue length: 14 | CPU usage: 100
+Monitor | Queue length: 15 | CPU usage: 100
+Worker 6 completed task 56
+Monitor | Queue length: 15 | CPU usage: 90
+Monitor | Queue length: 15 | CPU usage: 100
+Worker 7 completed task 57
+Monitor | Queue length: 15 | CPU usage: 90
+Monitor | Queue length: 15 | CPU usage: 100
+Worker 0 completed task 58
+Monitor | Queue length: 15 | CPU usage: 90
+Monitor | Queue length: 15 | CPU usage: 100
+Worker 1 completed task 59
+Worker 3 completed task 60
+Monitor | Queue length: 15 | CPU usage: 80
+Worker 2 completed task 63
+Monitor | Queue length: 16 | CPU usage: 70
+Monitor | Queue length: 16 | CPU usage: 70
+Monitor | Queue length: 17 | CPU usage: 70
+Worker 4 completed task 65
+Monitor | Queue length: 17 | CPU usage: 60
+Monitor | Queue length: 17 | CPU usage: 70
+Monitor | Queue length: 17 | CPU usage: 70
+Monitor | Queue length: 18 | CPU usage: 70
+Worker 5 completed task 66
+Monitor | Queue length: 18 | CPU usage: 60
+Monitor | Queue length: 18 | CPU usage: 95
+Monitor | Queue length: 18 | CPU usage: 95
+Monitor | Queue length: 19 | CPU usage: 95
+Monitor | Queue length: 19 | CPU usage: 95
+Monitor | Queue length: 20 | CPU usage: 95
+Worker 6 completed task 68
+Monitor | Queue length: 20 | CPU usage: 85
+Monitor | Queue length: 20 | CPU usage: 95
+Worker 7 completed task 69
+Monitor | Queue length: 20 | CPU usage: 85
+Monitor | Queue length: 20 | CPU usage: 95
+Worker 0 completed task 70
+Monitor | Queue length: 20 | CPU usage: 85
+Monitor | Queue length: 20 | CPU usage: 95
+Worker 1 completed task 71
+Worker 3 completed task 72
+Monitor | Queue length: 20 | CPU usage: 75
+Monitor | Queue length: 21 | CPU usage: 75
+Monitor | Queue length: 21 | CPU usage: 75
+Monitor | Queue length: 21 | CPU usage: 85
+Monitor | Queue length: 21 | CPU usage: 85
+Worker 2 completed task 76
+Monitor | Queue length: 22 | CPU usage: 75
+Monitor | Queue length: 22 | CPU usage: 75
+Monitor | Queue length: 23 | CPU usage: 75
+Monitor | Queue length: 23 | CPU usage: 75
+Worker 4 completed task 14
+Monitor | Queue length: 22 | CPU usage: 85
+Monitor | Queue length: 22 | CPU usage: 85
+Monitor | Queue length: 23 | CPU usage: 85
+Monitor | Queue length: 23 | CPU usage: 85
+Monitor | Queue length: 23 | CPU usage: 95
+Monitor | Queue length: 23 | CPU usage: 95
+Worker 5 completed task 80
+Monitor | Queue length: 23 | CPU usage: 95
+Monitor | Queue length: 23 | CPU usage: 95
+Worker 6 completed task 81
+Monitor | Queue length: 24 | CPU usage: 85
+Monitor | Queue length: 24 | CPU usage: 85
+Worker 7 completed task 83
+Monitor | Queue length: 25 | CPU usage: 75
+Monitor | Queue length: 25 | CPU usage: 75
+Monitor | Queue length: 26 | CPU usage: 75
+Monitor | Queue length: 26 | CPU usage: 75
+Worker 0 completed task 85
+Monitor | Queue length: 26 | CPU usage: 100
+Monitor | Queue length: 26 | CPU usage: 100
+Monitor | Queue length: 27 | CPU usage: 100
+Monitor | Queue length: 27 | CPU usage: 100
+Monitor | Queue length: 28 | CPU usage: 100
+Worker 3 completed task 15
+Worker 1 completed task 88
+Monitor | Queue length: 28 | CPU usage: 55
+Monitor | Queue length: 26 | CPU usage: 85
+Monitor | Queue length: 26 | CPU usage: 85
+Monitor | Queue length: 26 | CPU usage: 95
+Worker 2 completed task 90
+Monitor | Queue length: 26 | CPU usage: 85
+Monitor | Queue length: 26 | CPU usage: 95
+Worker 4 completed task 91
+Monitor | Queue length: 26 | CPU usage: 85
+Monitor | Queue length: 26 | CPU usage: 95
+Monitor | Queue length: 26 | CPU usage: 95
+Monitor | Queue length: 27 | CPU usage: 95
+Monitor | Queue length: 27 | CPU usage: 95
+Monitor | Queue length: 28 | CPU usage: 95
+Monitor | Queue length: 28 | CPU usage: 95
+Monitor | Queue length: 29 | CPU usage: 95
+Worker 5 completed task 17
+Monitor | Queue length: 29 | CPU usage: 60
+Monitor | Queue length: 28 | CPU usage: 80
+Monitor | Queue length: 28 | CPU usage: 80
+Monitor | Queue length: 28 | CPU usage: 90
+Monitor | Queue length: 28 | CPU usage: 90
+Monitor | Queue length: 28 | CPU usage: 100
+Worker 0 completed task 98
+Worker 6 completed task 96
+Worker 7 completed task 97
+Monitor | Queue length: 28 | CPU usage: 70
+Monitor | Queue length: 29 | CPU usage: 70
+Worker 3 completed task 99
+Monitor | Queue length: 29 | CPU usage: 60
+Monitor | Queue length: 29 | CPU usage: 70
+Worker 1 completed task 100
+Monitor | Queue length: 29 | CPU usage: 60
+Monitor | Queue length: 29 | CPU usage: 95
+Worker 2 completed task 101
+Monitor | Queue length: 29 | CPU usage: 85
+Monitor | Queue length: 30 | CPU usage: 85
+Monitor | Queue length: 30 | CPU usage: 85
+Monitor | Queue length: 30 | CPU usage: 95
+Monitor | Queue length: 30 | CPU usage: 95
+Monitor | Queue length: 31 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Worker 4 completed task 103
+Worker 5 completed task 104
+Monitor | Queue length: 31 | CPU usage: 95
+Monitor | Queue length: 31 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Monitor | Queue length: 33 | CPU usage: 95
+Monitor | Queue length: 33 | CPU usage: 95
+Worker 6 completed task 107
+Worker 0 completed task 106
+Monitor | Queue length: 32 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Worker 7 completed task 109
+Monitor | Queue length: 32 | CPU usage: 95
+Monitor | Queue length: 32 | CPU usage: 95
+Worker 3 completed task 19
+Monitor | Queue length: 31 | CPU usage: 80
+Monitor | Queue length: 31 | CPU usage: 80
+Monitor | Queue length: 32 | CPU usage: 80
+Monitor | Queue length: 32 | CPU usage: 80
+Worker 1 completed task 112
+Monitor | Queue length: 32 | CPU usage: 80
+Monitor | Queue length: 32 | CPU usage: 80
+Monitor | Queue length: 32 | CPU usage: 90
+Monitor | Queue length: 32 | CPU usage: 90
+Monitor | Queue length: 32 | CPU usage: 100
+Monitor | Queue length: 32 | CPU usage: 100
+Worker 2 completed task 113
+Worker 4 completed task 114
+Monitor | Queue length: 32 | CPU usage: 90
+Monitor | Queue length: 32 | CPU usage: 90
+Monitor | Queue length: 32 | CPU usage: 100
+Monitor | Queue length: 32 | CPU usage: 100
+Monitor | Queue length: 33 | CPU usage: 100
+Monitor | Queue length: 33 | CPU usage: 100
+Worker 5 completed task 116
+Worker 6 completed task 117
+Monitor | Queue length: 33 | CPU usage: 90
+Monitor | Queue length: 33 | CPU usage: 90
+Worker 0 completed task 118
+Monitor | Queue length: 34 | CPU usage: 80
+Monitor | Queue length: 34 | CPU usage: 80
+Worker 7 completed task 119
+Worker 3 completed task 120
+Monitor | Queue length: 34 | CPU usage: 70
+Monitor | Queue length: 34 | CPU usage: 70
+Monitor | Queue length: 34 | CPU usage: 80
+Monitor | Queue length: 34 | CPU usage: 80
+Worker 1 completed task 122
+Monitor | Queue length: 34 | CPU usage: 80
+Monitor | Queue length: 34 | CPU usage: 80
+Monitor | Queue length: 34 | CPU usage: 90
+Monitor | Queue length: 34 | CPU usage: 90
+Monitor | Queue length: 35 | CPU usage: 90
+Monitor | Queue length: 35 | CPU usage: 90
+Worker 2 completed task 123
+Worker 4 completed task 124
+Monitor | Queue length: 36 | CPU usage: 70
+Monitor | Queue length: 36 | CPU usage: 70
+Monitor | Queue length: 37 | CPU usage: 70
+Monitor | Queue length: 37 | CPU usage: 70
+Monitor | Queue length: 38 | CPU usage: 70
+Monitor | Queue length: 38 | CPU usage: 70
+Worker 5 completed task 125
+Worker 6 completed task 126
+Monitor | Queue length: 37 | CPU usage: 95
+Monitor | Queue length: 37 | CPU usage: 95
+Worker 0 completed task 127
+Monitor | Queue length: 37 | CPU usage: 95
+Monitor | Queue length: 37 | CPU usage: 95
+Worker 7 completed task 130
+Monitor | Queue length: 37 | CPU usage: 95
+Monitor | Queue length: 37 | CPU usage: 95
+Worker 3 completed task 131
+Monitor | Queue length: 38 | CPU usage: 85
+Monitor | Queue length: 38 | CPU usage: 85
+Worker 1 completed task 132
+Monitor | Queue length: 38 | CPU usage: 85
+Monitor | Queue length: 38 | CPU usage: 85
+Monitor | Queue length: 38 | CPU usage: 95
+Monitor | Queue length: 38 | CPU usage: 95
+Monitor | Queue length: 39 | CPU usage: 95
+Worker 2 completed task 133
+Monitor | Queue length: 39 | CPU usage: 85
+Monitor | Queue length: 39 | CPU usage: 95
+Monitor | Queue length: 39 | CPU usage: 95
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 41 | CPU usage: 95
+Monitor | Queue length: 41 | CPU usage: 95
+Worker 5 completed task 21
+Worker 4 completed task 138
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 40 | CPU usage: 95
+Worker 6 completed task 139
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 40 | CPU usage: 95
+Worker 0 completed task 140
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 40 | CPU usage: 95
+Monitor | Queue length: 41 | CPU usage: 95
+Monitor | Queue length: 41 | CPU usage: 95
+Worker 7 completed task 142
+Monitor | Queue length: 41 | CPU usage: 95
+Worker 3 completed task 143
+Monitor | Queue length: 41 | CPU usage: 85
+Monitor | Queue length: 41 | CPU usage: 95
+Monitor | Queue length: 41 | CPU usage: 95
+Monitor | Queue length: 42 | CPU usage: 95
+Worker 1 completed task 144
+Monitor | Queue length: 42 | CPU usage: 85
+Monitor | Queue length: 43 | CPU usage: 85
+Monitor | Queue length: 43 | CPU usage: 85
+Monitor | Queue length: 44 | CPU usage: 85
+Monitor | Queue length: 44 | CPU usage: 85
+Monitor | Queue length: 44 | CPU usage: 95
+Worker 5 completed task 31
+Worker 2 completed task 148
+Monitor | Queue length: 44 | CPU usage: 50
+Monitor | Queue length: 44 | CPU usage: 85
+Worker 4 completed task 149
+Monitor | Queue length: 44 | CPU usage: 75
+Monitor | Queue length: 44 | CPU usage: 85
+Worker 6 completed task 150
+Monitor | Queue length: 45 | CPU usage: 75
+Monitor | Queue length: 45 | CPU usage: 75
+Monitor | Queue length: 46 | CPU usage: 75
+Monitor | Queue length: 46 | CPU usage: 75
+Worker 0 completed task 151
+Monitor | Queue length: 46 | CPU usage: 100
+Monitor | Queue length: 46 | CPU usage: 100
+Worker 7 completed task 152
+Monitor | Queue length: 47 | CPU usage: 90
+Monitor | Queue length: 47 | CPU usage: 90
+Monitor | Queue length: 48 | CPU usage: 90
+Monitor | Queue length: 48 | CPU usage: 90
+Monitor | Queue length: 48 | CPU usage: 100
+Monitor | Queue length: 48 | CPU usage: 100
+Monitor | Queue length: 49 | CPU usage: 100
+Monitor | Queue length: 49 | CPU usage: 100
+Worker 3 completed task 157
+Monitor | Queue length: 49 | CPU usage: 100
+Worker 1 completed task 40
+Monitor | Queue length: 49 | CPU usage: 65
+Monitor | Queue length: 48 | CPU usage: 85
+Worker 5 completed task 159
+Monitor | Queue length: 48 | CPU usage: 75
+Monitor | Queue length: 49 | CPU usage: 75
+Monitor | Queue length: 49 | CPU usage: 75
+Monitor | Queue length: 49 | CPU usage: 85
+Monitor | Queue length: 49 | CPU usage: 85
+Worker 2 completed task 46
+Monitor | Queue length: 48 | CPU usage: 95
+Monitor | Queue length: 48 | CPU usage: 95
+Monitor | Queue length: 49 | CPU usage: 95
+Monitor | Queue length: 49 | CPU usage: 95
+Monitor | Queue length: 50 | CPU usage: 95
+Monitor | Queue length: 50 | CPU usage: 95
+Monitor | Queue length: 51 | CPU usage: 95
+Worker 4 completed task 165
+Monitor | Queue length: 51 | CPU usage: 85
+Monitor | Queue length: 51 | CPU usage: 95
+Monitor | Queue length: 51 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Worker 6 completed task 166
+Monitor | Queue length: 52 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Worker 0 completed task 167
+Worker 5 completed task 168
+Monitor | Queue length: 51 | CPU usage: 95
+Monitor | Queue length: 51 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Worker 7 completed task 170
+Monitor | Queue length: 52 | CPU usage: 95
+Monitor | Queue length: 52 | CPU usage: 95
+Worker 1 completed task 49
+Worker 3 completed task 171
+Monitor | Queue length: 49 | CPU usage: 90
+Monitor | Queue length: 49 | CPU usage: 90
+Monitor | Queue length: 49 | CPU usage: 100
+Monitor | Queue length: 49 | CPU usage: 100
+Monitor | Queue length: 50 | CPU usage: 100
+Monitor | Queue length: 50 | CPU usage: 100
+Monitor | Queue length: 51 | CPU usage: 100
+Monitor | Queue length: 51 | CPU usage: 100
+Worker 2 completed task 172
+Monitor | Queue length: 51 | CPU usage: 100
+Monitor | Queue length: 51 | CPU usage: 100
+Monitor | Queue length: 52 | CPU usage: 100
+Monitor | Queue length: 52 | CPU usage: 100
+Worker 4 completed task 173
+Monitor | Queue length: 52 | CPU usage: 100
+Monitor | Queue length: 52 | CPU usage: 100
+Worker 6 completed task 174
+Worker 0 completed task 175
+Monitor | Queue length: 52 | CPU usage: 90
+Monitor | Queue length: 52 | CPU usage: 90
+Monitor | Queue length: 53 | CPU usage: 90
+Monitor | Queue length: 53 | CPU usage: 90
+Worker 5 completed task 176
+Monitor | Queue length: 53 | CPU usage: 90
+Monitor | Queue length: 53 | CPU usage: 90
+Worker 7 completed task 178
+Worker 1 completed task 179
+Worker 3 completed task 180
+Monitor | Queue length: 53 | CPU usage: 70
+Monitor | Queue length: 53 | CPU usage: 70
+Monitor | Queue length: 54 | CPU usage: 70
+Monitor | Queue length: 54 | CPU usage: 70
+Monitor | Queue length: 55 | CPU usage: 70
+Monitor | Queue length: 55 | CPU usage: 70
+Monitor | Queue length: 55 | CPU usage: 80
+Monitor | Queue length: 55 | CPU usage: 80
+Worker 2 completed task 181
+Monitor | Queue length: 55 | CPU usage: 80
+Monitor | Queue length: 55 | CPU usage: 80
+Monitor | Queue length: 55 | CPU usage: 90
+Monitor | Queue length: 55 | CPU usage: 90
+Worker 4 completed task 182
+Monitor | Queue length: 56 | CPU usage: 80
+Monitor | Queue length: 56 | CPU usage: 80
+Worker 6 completed task 183
+Worker 0 completed task 187
+Monitor | Queue length: 56 | CPU usage: 70
+Monitor | Queue length: 56 | CPU usage: 70
+Monitor | Queue length: 57 | CPU usage: 70
+Monitor | Queue length: 57 | CPU usage: 70
+Worker 5 completed task 188
+Monitor | Queue length: 57 | CPU usage: 95
+Monitor | Queue length: 57 | CPU usage: 95
+Worker 7 completed task 190
+Worker 1 completed task 191
+Monitor | Queue length: 57 | CPU usage: 85
+Monitor | Queue length: 57 | CPU usage: 85
+Monitor | Queue length: 57 | CPU usage: 95
+Monitor | Queue length: 57 | CPU usage: 95
+Monitor | Queue length: 58 | CPU usage: 95
+Monitor | Queue length: 58 | CPU usage: 95
+Worker 3 completed task 194
+Monitor | Queue length: 58 | CPU usage: 95
+Monitor | Queue length: 58 | CPU usage: 95
+Worker 2 completed task 195
+Monitor | Queue length: 58 | CPU usage: 95
+Monitor | Queue length: 58 | CPU usage: 95
+Monitor | Queue length: 59 | CPU usage: 95
+Monitor | Queue length: 59 | CPU usage: 95
+Worker 4 completed task 196
+Monitor | Queue length: 59 | CPU usage: 95
+Monitor | Queue length: 59 | CPU usage: 95
+Worker 6 completed task 198
+Monitor | Queue length: 59 | CPU usage: 95
+Monitor | Queue length: 59 | CPU usage: 95
+Monitor | Queue length: 60 | CPU usage: 95
+Monitor | Queue length: 60 | CPU usage: 95
+Worker 0 completed task 50
+Monitor | Queue length: 58 | CPU usage: 90
+Monitor | Queue length: 58 | CPU usage: 90
+Worker 5 completed task 201
+Monitor | Queue length: 59 | CPU usage: 80
+Monitor | Queue length: 59 | CPU usage: 80
+Worker 7 completed task 202
+Monitor | Queue length: 59 | CPU usage: 80
+Monitor | Queue length: 59 | CPU usage: 80
+Monitor | Queue length: 59 | CPU usage: 90
+Monitor | Queue length: 59 | CPU usage: 90
+Worker 1 completed task 203
+Monitor | Queue length: 59 | CPU usage: 90
+Monitor | Queue length: 59 | CPU usage: 90
+Worker 3 completed task 204
+Monitor | Queue length: 59 | CPU usage: 90
+Monitor | Queue length: 59 | CPU usage: 90
+Monitor | Queue length: 60 | CPU usage: 90
+Monitor | Queue length: 60 | CPU usage: 90
+Worker 2 completed task 205
+Monitor | Queue length: 60 | CPU usage: 90
+Monitor | Queue length: 60 | CPU usage: 90
+Worker 4 completed task 206
+Monitor | Queue length: 60 | CPU usage: 90
+Monitor | Queue length: 60 | CPU usage: 90
+Monitor | Queue length: 60 | CPU usage: 100
+Monitor | Queue length: 60 | CPU usage: 100
+Worker 6 completed task 207
+Worker 0 completed task 208
+Monitor | Queue length: 61 | CPU usage: 80
+Worker 5 completed task 210
+Monitor | Queue length: 61 | CPU usage: 70
+Monitor | Queue length: 61 | CPU usage: 80
+Monitor | Queue length: 61 | CPU usage: 80
+Worker 7 completed task 212
+Monitor | Queue length: 62 | CPU usage: 70
+Monitor | Queue length: 62 | CPU usage: 70
+Monitor | Queue length: 62 | CPU usage: 80
+Worker 1 completed task 213
+Monitor | Queue length: 62 | CPU usage: 70
+Monitor | Queue length: 63 | CPU usage: 70
+Worker 3 completed task 214
+Monitor | Queue length: 63 | CPU usage: 60
+Monitor | Queue length: 63 | CPU usage: 70
+Monitor | Queue length: 63 | CPU usage: 70
+Monitor | Queue length: 63 | CPU usage: 80
+Worker 2 completed task 215
+Monitor | Queue length: 63 | CPU usage: 70
+Monitor | Queue length: 63 | CPU usage: 80
+Worker 4 completed task 217
+Monitor | Queue length: 63 | CPU usage: 70
+Monitor | Queue length: 63 | CPU usage: 80
+Monitor | Queue length: 63 | CPU usage: 90
+Monitor | Queue length: 63 | CPU usage: 90
+Worker 6 completed task 218
+Worker 0 completed task 219
+Monitor | Queue length: 63 | CPU usage: 80
+Monitor | Queue length: 63 | CPU usage: 80
+Worker 5 completed task 221
+Monitor | Queue length: 63 | CPU usage: 80
+Monitor | Queue length: 63 | CPU usage: 80
+Monitor | Queue length: 63 | CPU usage: 90
+Monitor | Queue length: 63 | CPU usage: 90
+Worker 7 completed task 223
+Monitor | Queue length: 63 | CPU usage: 90
+Monitor | Queue length: 63 | CPU usage: 90
+Monitor | Queue length: 63 | CPU usage: 100
+Monitor | Queue length: 63 | CPU usage: 100
+Worker 1 completed task 225
+Monitor | Queue length: 63 | CPU usage: 100
+Monitor | Queue length: 63 | CPU usage: 100
+Worker 3 completed task 226
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 90
+Worker 2 completed task 227
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 90
+Worker 4 completed task 228
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 100
+Monitor | Queue length: 64 | CPU usage: 100
+Worker 6 completed task 229
+Worker 0 completed task 230
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 90
+Worker 5 completed task 231
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 90
+Monitor | Queue length: 64 | CPU usage: 100
+Monitor | Queue length: 64 | CPU usage: 100
+Worker 7 completed task 232
+Monitor | Queue length: 64 | CPU usage: 100
+Monitor | Queue length: 64 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 1 completed task 233
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 3 completed task 234
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 2 completed task 235
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 4 completed task 237
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 66 | CPU usage: 100
+Monitor | Queue length: 66 | CPU usage: 100
+Worker 6 completed task 238
+Worker 0 completed task 239
+Monitor | Queue length: 65 | CPU usage: 100
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 5 completed task 240
+Monitor | Queue length: 65 | CPU usage: 100
+Worker 7 completed task 241
+Worker 1 completed task 242
+Worker 3 completed task 243
+Worker 2 completed task 244
+Worker 4 completed task 245
+Worker 6 completed task 246
+Worker 0 completed task 247
+Worker 5 completed task 248
+Worker 7 completed task 249
+Worker 1 completed task 250
+Worker 3 completed task 251
+Worker 2 completed task 253
+Worker 4 completed task 254
+Worker 6 completed task 255
+Worker 0 completed task 258
+Worker 5 completed task 259
+Worker 7 completed task 260
+Worker 1 completed task 261
+Worker 3 completed task 262
+Worker 2 completed task 263
+Worker 4 completed task 264
+Worker 6 completed task 265
+Worker 0 completed task 266
+Worker 5 completed task 267
+Worker 7 completed task 268
+Worker 1 completed task 269
+Worker 3 completed task 270
+Worker 2 completed task 272
+Worker 4 completed task 273
+Worker 6 completed task 274
+Worker 0 completed task 277
+Worker 5 completed task 279
+Worker 7 completed task 280
+Worker 1 completed task 283
+Worker 3 completed task 284
+Worker 2 completed task 286
+Worker 4 completed task 287
+Worker 6 completed task 288
+Worker 0 completed task 289
+Worker 5 completed task 291
+Worker 7 completed task 293
+Worker 1 completed task 294
+Worker 3 completed task 296
+Worker 2 completed task 297
+Worker 4 completed task 298
+Worker 6 completed task 299
+Worker 0 completed task 300
+Worker 5 completed task 301
+Worker 7 completed task 304
+Worker 1 completed task 305
+Worker 3 completed task 306
+Worker 2 completed task 307
+Worker 4 completed task 309
+Worker 6 completed task 61
+Worker 0 completed task 313
+Worker 5 completed task 315
+Worker 7 completed task 62
+Worker 1 completed task 318
+Worker 3 completed task 320
+Worker 2 completed task 321
+Worker 4 completed task 322
+Worker 6 completed task 323
+Worker 0 completed task 324
+Worker 5 completed task 325
+Worker 7 completed task 326
+Worker 1 completed task 327
+Worker 3 completed task 328
+Worker 2 completed task 329
+Worker 4 completed task 331
+Worker 6 completed task 333
+Worker 0 completed task 334
+Worker 5 completed task 335
+Worker 7 completed task 336
+Worker 1 completed task 338
+Worker 3 completed task 340
+Worker 2 completed task 341
+Worker 4 completed task 64
+Worker 6 completed task 344
+Worker 5 completed task 346
+Worker 0 completed task 345
+Worker 7 completed task 347
+Worker 1 completed task 349
+Worker 3 completed task 352
+Worker 2 completed task 353
+Worker 4 completed task 354
+Worker 6 completed task 356
+Worker 5 completed task 357
+Worker 0 completed task 359
+Worker 7 completed task 67
+Worker 1 completed task 361
+Worker 3 completed task 362
+Worker 2 completed task 363
+Worker 4 completed task 365
+Worker 6 completed task 366
+Worker 5 completed task 367
+Worker 0 completed task 369
+Worker 7 completed task 370
+Worker 1 completed task 371
+Worker 3 completed task 372
+Worker 2 completed task 373
+Worker 4 completed task 375
+Worker 6 completed task 376
+Worker 5 completed task 377
+Worker 0 completed task 378
+Worker 7 completed task 379
+Worker 1 completed task 380
+Worker 3 completed task 381
+Worker 2 completed task 382
+Worker 4 completed task 383
+Worker 6 completed task 384
+Worker 5 completed task 385
+Worker 0 completed task 386
+Worker 7 completed task 387
+Worker 1 completed task 388
+Worker 3 completed task 389
+Worker 2 completed task 391
+Worker 4 completed task 392
+Worker 6 completed task 393
+Worker 5 completed task 395
+Worker 0 completed task 396
+Worker 7 completed task 399
+Worker 1 completed task 73
+Worker 3 completed task 404
+Worker 2 completed task 405
+Worker 4 completed task 406
+Worker 6 completed task 407
+Worker 5 completed task 408
+Worker 0 completed task 409
+Worker 7 completed task 410
+Worker 1 completed task 414
+Worker 3 completed task 415
+Worker 2 completed task 416
+Worker 4 completed task 417
+Worker 6 completed task 418
+Worker 5 completed task 419
+Worker 0 completed task 421
+Worker 7 completed task 423
+Worker 1 completed task 424
+Worker 3 completed task 74
+Worker 2 completed task 427
+Worker 4 completed task 428
+Worker 6 completed task 429
+Worker 5 completed task 430
+Worker 0 completed task 431
+Worker 7 completed task 433
+Worker 1 completed task 436
+Worker 3 completed task 437
+Worker 2 completed task 439
+Worker 4 completed task 440
+Worker 6 completed task 441
+Worker 5 completed task 442
+Worker 0 completed task 75
+Worker 7 completed task 447
+Worker 1 completed task 448
+Worker 3 completed task 449
+Worker 2 completed task 451
+Worker 4 completed task 452
+Worker 5 completed task 77
+Worker 6 completed task 454
+Worker 0 completed task 455
+Worker 7 completed task 456
+Worker 1 completed task 458
+Worker 3 completed task 459
+Worker 2 completed task 462
+Worker 5 completed task 78
+Worker 4 completed task 463
+Worker 6 completed task 466
+Worker 0 completed task 467
+Worker 7 completed task 469
+Worker 1 completed task 471
+Worker 3 completed task 473
+Worker 4 completed task 79
+Worker 2 completed task 474
+Worker 5 completed task 475
+Worker 6 completed task 477
+Worker 0 completed task 478
+Worker 7 completed task 479
+Worker 1 completed task 481
+Worker 3 completed task 483
+Worker 4 completed task 82
+Worker 2 completed task 486
+Worker 5 completed task 487
+Worker 6 completed task 488
+Worker 0 completed task 489
+Worker 7 completed task 490
+Worker 3 completed task 84
+Worker 1 completed task 491
+Worker 4 completed task 495
+Worker 2 completed task 496
+Worker 5 completed task 497
+Worker 6 completed task 498
+Worker 0 completed task 500
+Worker 7 completed task 502
+Worker 1 completed task 504
+Worker 3 completed task 503
+Worker 4 completed task 505
+Worker 2 completed task 506
+Worker 5 completed task 509
+Worker 6 completed task 511
+Worker 0 completed task 512
+Worker 7 completed task 513
+Worker 1 completed task 514
+Worker 3 completed task 515
+Worker 4 completed task 517
+Worker 2 completed task 519
+Worker 5 completed task 520
+Worker 6 completed task 521
+Worker 0 completed task 522
+Worker 7 completed task 523
+Worker 1 completed task 524
+Worker 3 completed task 525
+Worker 4 completed task 527
+Worker 2 completed task 528
+Worker 5 completed task 529
+Worker 6 completed task 530
+Worker 0 completed task 531
+Worker 7 completed task 532
+Worker 1 completed task 533
+Worker 3 completed task 535
+Worker 4 completed task 538
+Worker 2 completed task 86
+Worker 5 completed task 541
+Worker 6 completed task 543
+Worker 0 completed task 544
+Worker 7 completed task 546
+Worker 1 completed task 547
+Worker 3 completed task 548
+Worker 4 completed task 549
+Worker 2 completed task 550
+Worker 5 completed task 551
+Worker 6 completed task 552
+Worker 0 completed task 553
+Worker 7 completed task 554
+Worker 1 completed task 555
+Worker 3 completed task 557
+Worker 4 completed task 558
+Worker 2 completed task 560
+Worker 5 completed task 561
+Worker 6 completed task 563
+Worker 0 completed task 565
+Worker 7 completed task 567
+Worker 1 completed task 568
+Worker 3 completed task 569
+Worker 4 completed task 87
+Worker 2 completed task 571
+Worker 5 completed task 572
+Worker 6 completed task 573
+Worker 0 completed task 574
+Worker 7 completed task 575
+Worker 1 completed task 577
+Worker 3 completed task 579
+Worker 4 completed task 580
+Worker 2 completed task 581
+Worker 5 completed task 582
+Worker 6 completed task 583
+Worker 0 completed task 584
+Worker 7 completed task 585
+Worker 1 completed task 586
+Worker 3 completed task 588
+Worker 4 completed task 589
+Worker 2 completed task 590
+Worker 5 completed task 592
+Worker 6 completed task 593
+Worker 0 completed task 594
+Worker 7 completed task 595
+Worker 1 completed task 597
+Worker 3 completed task 599
+Worker 4 completed task 600
+Worker 2 completed task 603
+Worker 5 completed task 604
+Worker 6 completed task 606
+Worker 0 completed task 607
+Worker 7 completed task 608
+Worker 1 completed task 89
+Worker 3 completed task 612
+Worker 4 completed task 613
+Worker 2 completed task 614
+Worker 5 completed task 615
+Worker 6 completed task 616
+Worker 0 completed task 617
+Worker 7 completed task 619
+Worker 1 completed task 622
+Worker 3 completed task 623
+Worker 4 completed task 624
+Worker 2 completed task 625
+Worker 5 completed task 626
+Worker 6 completed task 92
+Worker 0 completed task 629
+Worker 7 completed task 630
+Worker 1 completed task 631
+Worker 3 completed task 633
+Worker 4 completed task 634
+Worker 2 completed task 636
+Worker 5 completed task 637
+Worker 6 completed task 638
+Worker 0 completed task 639
+Worker 7 completed task 640
+Worker 1 completed task 641
+Worker 3 completed task 642
+Worker 4 completed task 643
+Worker 2 completed task 644
+Worker 5 completed task 645
+Worker 6 completed task 648
+Worker 0 completed task 649
+Worker 7 completed task 650
+Worker 1 completed task 651
+Worker 3 completed task 652
+Worker 4 completed task 653
+Worker 2 completed task 654
+Worker 5 completed task 655
+Worker 6 completed task 656
+Worker 0 completed task 657
+Worker 7 completed task 658
+Worker 1 completed task 659
+Worker 3 completed task 660
+Worker 4 completed task 661
+Worker 2 completed task 663
+Worker 5 completed task 668
+Worker 6 completed task 669
+Worker 0 completed task 672
+Worker 7 completed task 673
+Worker 1 completed task 674
+Worker 3 completed task 675
+Worker 4 completed task 93
+Worker 2 completed task 678
+Worker 5 completed task 679
+Worker 6 completed task 681
+Worker 0 completed task 684
+Worker 7 completed task 685
+Worker 3 completed task 94
+Worker 1 completed task 686
+Worker 4 completed task 687
+Worker 2 completed task 689
+Worker 5 completed task 690
+Worker 6 completed task 691
+Worker 0 completed task 693
+Worker 3 completed task 95
+Worker 7 completed task 694
+Worker 1 completed task 697
+Worker 4 completed task 698
+Worker 2 completed task 699
+Worker 5 completed task 700
+Worker 6 completed task 701
+Worker 3 completed task 703
+Worker 7 completed task 704
+Worker 0 completed task 702
+Worker 1 completed task 705
+Worker 4 completed task 706
+Worker 2 completed task 707
+Worker 5 completed task 708
+Worker 6 completed task 709
+Worker 3 completed task 710
+Worker 7 completed task 711
+Worker 0 completed task 712
+Worker 1 completed task 713
+Worker 4 completed task 714
+Worker 2 completed task 715
+Worker 5 completed task 716
+Worker 6 completed task 718
+Worker 3 completed task 720
+Worker 7 completed task 722
+Worker 0 completed task 723
+Worker 1 completed task 724
+Worker 4 completed task 725
+Worker 2 completed task 726
+Worker 5 completed task 727
+Worker 6 completed task 728
+Worker 3 completed task 729
+Worker 7 completed task 730
+Worker 0 completed task 733
+Worker 1 completed task 734
+Worker 4 completed task 735
+Worker 2 completed task 736
+Worker 5 completed task 737
+Worker 6 completed task 738
+Worker 3 completed task 739
+Worker 7 completed task 740
+Worker 0 completed task 741
+Worker 1 completed task 742
+Worker 4 completed task 743
+Worker 2 completed task 744
+Worker 5 completed task 745
+Worker 6 completed task 746
+Worker 3 completed task 750
+Worker 7 completed task 752
+Worker 0 completed task 753
+Worker 1 completed task 754
+Worker 4 completed task 755
+Worker 2 completed task 757
+Worker 5 completed task 758
+Worker 6 completed task 761
+Worker 3 completed task 763
+Worker 7 completed task 765
+Worker 0 completed task 766
+Worker 1 completed task 767
+Worker 4 completed task 772
+Worker 2 completed task 773
+Worker 5 completed task 774
+Worker 3 completed task 102
+Worker 6 completed task 776
+Worker 7 completed task 777
+Worker 0 completed task 778
+Worker 1 completed task 779
+Worker 4 completed task 782
+Worker 2 completed task 783
+Worker 5 completed task 784
+Worker 6 completed task 786
+Worker 3 completed task 785
+Worker 7 completed task 787
+Worker 0 completed task 788
+Worker 1 completed task 789
+Worker 4 completed task 790
+Worker 2 completed task 792
+Worker 5 completed task 793
+Worker 6 completed task 795
+Worker 3 completed task 105
+Worker 7 completed task 798
+Worker 0 completed task 799
+Worker 1 completed task 802
+Worker 4 completed task 803
+Worker 2 completed task 804
+Worker 6 completed task 108
+Worker 5 completed task 807
+Worker 3 completed task 808
+Worker 7 completed task 809
+Worker 0 completed task 810
+Worker 1 completed task 813
+Worker 4 completed task 110
+Worker 2 completed task 818
+Worker 6 completed task 819
+Worker 5 completed task 820
+Worker 3 completed task 822
+Worker 7 completed task 823
+Worker 0 completed task 825
+Worker 1 completed task 826
+Worker 4 completed task 827
+Worker 2 completed task 828
+Worker 6 completed task 830
+Worker 5 completed task 831
+Worker 3 completed task 832
+Worker 7 completed task 833
+Worker 0 completed task 835
+Worker 1 completed task 836
+Worker 4 completed task 837
+Worker 2 completed task 838
+Worker 6 completed task 839
+Worker 5 completed task 840
+Worker 3 completed task 842
+Worker 7 completed task 843
+Worker 0 completed task 844
+Worker 1 completed task 846
+Worker 4 completed task 847
+Worker 2 completed task 848
+Worker 6 completed task 849
+Worker 5 completed task 851
+Worker 3 completed task 852
+Worker 7 completed task 853
+Worker 0 completed task 856
+Worker 1 completed task 857
+Worker 4 completed task 858
+Worker 2 completed task 859
+Worker 6 completed task 860
+Worker 5 completed task 861
+Worker 3 completed task 862
+Worker 7 completed task 864
+Worker 0 completed task 865
+Worker 1 completed task 866
+Worker 4 completed task 868
+Worker 2 completed task 869
+Worker 6 completed task 871
+Worker 5 completed task 872
+Worker 3 completed task 873
+Worker 7 completed task 874
+Worker 0 completed task 877
+Worker 1 completed task 878
+Worker 4 completed task 111
+Worker 2 completed task 880
+Worker 6 completed task 881
+Worker 5 completed task 885
+Worker 3 completed task 886
+Worker 7 completed task 887
+Worker 0 completed task 888
+Worker 1 completed task 115
+Worker 4 completed task 890
+Worker 2 completed task 891
+Worker 6 completed task 893
+Worker 5 completed task 894
+Worker 3 completed task 895
+Worker 7 completed task 896
+Worker 0 completed task 898
+Worker 1 completed task 899
+Worker 4 completed task 900
+Worker 2 completed task 901
+Worker 6 completed task 902
+Worker 5 completed task 903
+Worker 3 completed task 905
+Worker 7 completed task 906
+Worker 0 completed task 908
+Worker 1 completed task 909
+Worker 4 completed task 911
+Worker 2 completed task 912
+Worker 6 completed task 913
+Worker 5 completed task 916
+Worker 3 completed task 918
+Worker 0 completed task 121
+Worker 7 completed task 919
+Worker 1 completed task 920
+Worker 4 completed task 921
+Worker 2 completed task 923
+Worker 6 completed task 924
+Worker 5 completed task 925
+Worker 3 completed task 926
+Worker 0 completed task 930
+Worker 7 completed task 128
+Worker 1 completed task 934
+Worker 4 completed task 936
+Worker 2 completed task 937
+Worker 6 completed task 938
+Worker 5 completed task 939
+Worker 3 completed task 940
+Worker 0 completed task 129
+Worker 7 completed task 942
+Worker 1 completed task 944
+Worker 4 completed task 947
+Worker 2 completed task 948
+Worker 6 completed task 949
+Worker 3 completed task 134
+Worker 5 completed task 951
+Worker 0 completed task 952
+Worker 7 completed task 954
+Worker 1 completed task 955
+Worker 4 completed task 956
+Worker 2 completed task 958
+Worker 6 completed task 959
+Worker 3 completed task 960
+Worker 5 completed task 961
+Worker 0 completed task 963
+Worker 7 completed task 964
+Worker 1 completed task 966
+Worker 4 completed task 969
+Worker 2 completed task 970
+Worker 3 completed task 135
+Worker 6 completed task 971
+Worker 5 completed task 973
+Worker 0 completed task 974
+Worker 7 completed task 975
+Worker 1 completed task 976
+Worker 4 completed task 980
+Worker 3 completed task 136
+Worker 2 completed task 981
+Worker 6 completed task 983
+Worker 5 completed task 984
+Worker 0 completed task 985
+Worker 7 completed task 987
+Worker 1 completed task 989
+Worker 3 completed task 137
+Worker 4 completed task 990
+Worker 2 completed task 992
+Worker 6 completed task 993
+Worker 5 completed task 994
+Worker 0 completed task 996
+Worker 7 completed task 997
+Worker 1 completed task 141
+Worker 4 completed task 146
+Worker 3 completed task 145
+Worker 2 completed task 147
+Worker 6 completed task 153
+Worker 5 completed task 154
+Worker 0 completed task 155
+Worker 1 completed task 158
+Worker 7 completed task 156
+Worker 4 completed task 160
+Worker 3 completed task 161
+Worker 2 completed task 162
+Worker 6 completed task 163
+Worker 5 completed task 164
+Worker 0 completed task 169
+Worker 1 completed task 177
+Worker 7 completed task 184
+Worker 4 completed task 185
+Worker 3 completed task 186
+Worker 2 completed task 189
+Worker 6 completed task 192
+Worker 5 completed task 193
+Worker 0 completed task 197
+Worker 1 completed task 199
+Worker 7 completed task 200
+Worker 4 completed task 209
+Worker 3 completed task 211
+Worker 2 completed task 216
+Worker 6 completed task 220
+Worker 5 completed task 222
+Worker 0 completed task 224
+Worker 1 completed task 236
+Worker 4 completed task 256
+Worker 7 completed task 252
+Worker 3 completed task 257
+Worker 2 completed task 271
+Worker 6 completed task 275
+Worker 5 completed task 276
+Worker 0 completed task 278
+Worker 1 completed task 281
+Worker 4 completed task 282
+Worker 3 completed task 290
+Worker 7 completed task 285
+Worker 2 completed task 292
+Worker 6 completed task 295
+Worker 5 completed task 302
+Worker 0 completed task 303
+Worker 1 completed task 308
+Worker 4 completed task 310
+Worker 7 completed task 312
+Worker 3 completed task 311
+Worker 2 completed task 314
+Worker 6 completed task 316
+Worker 5 completed task 317
+Worker 0 completed task 319
+Worker 1 completed task 330
+Worker 4 completed task 332
+Worker 7 completed task 337
+Worker 3 completed task 339
+Worker 2 completed task 342
+Worker 6 completed task 343
+Worker 5 completed task 348
+Worker 0 completed task 350
+Worker 1 completed task 351
+Worker 7 completed task 358
+Worker 4 completed task 355
+Worker 3 completed task 360
+Worker 2 completed task 364
+Worker 6 completed task 368
+Worker 0 completed task 390
+Worker 5 completed task 374
+Worker 1 completed task 394
+Worker 7 completed task 397
+Worker 4 completed task 398
+Worker 3 completed task 400
+Worker 2 completed task 401
+Worker 6 completed task 402
+Worker 5 completed task 411
+Worker 0 completed task 403
+Worker 1 completed task 412
+Worker 7 completed task 413
+Worker 4 completed task 420
+Worker 3 completed task 422
+Worker 2 completed task 425
+Worker 6 completed task 426
+Worker 0 completed task 434
+Worker 5 completed task 432
+Worker 1 completed task 435
+Worker 7 completed task 438
+Worker 4 completed task 443
+Worker 3 completed task 444
+Worker 2 completed task 445
+Worker 6 completed task 446
+Worker 0 completed task 450
+Worker 5 completed task 453
+Worker 1 completed task 457
+Worker 7 completed task 460
+Worker 4 completed task 461
+Worker 3 completed task 464
+Worker 2 completed task 465
+Worker 6 completed task 468
+Worker 0 completed task 470
+Worker 5 completed task 472
+Worker 1 completed task 476
+Worker 7 completed task 480
+Worker 4 completed task 482
+Worker 3 completed task 484
+Worker 2 completed task 485
+Worker 6 completed task 492
+Worker 0 completed task 493
+Worker 5 completed task 494
+Worker 7 completed task 501
+Worker 1 completed task 499
+Worker 4 completed task 507
+Worker 3 completed task 508
+Worker 2 completed task 510
+Worker 6 completed task 516
+Worker 0 completed task 518
+Worker 5 completed task 526
+Worker 7 completed task 534
+Worker 1 completed task 536
+Worker 4 completed task 537
+Worker 3 completed task 539
+Worker 2 completed task 540
+Worker 6 completed task 542
+Worker 0 completed task 545
+Worker 5 completed task 556
+Worker 7 completed task 559
+Worker 1 completed task 562
+Worker 4 completed task 564
+Worker 3 completed task 566
+Worker 2 completed task 570
+Worker 6 completed task 576
+Worker 0 completed task 578
+Worker 5 completed task 587
+Worker 7 completed task 591
+Worker 1 completed task 596
+Worker 4 completed task 598
+Worker 3 completed task 601
+Worker 2 completed task 602
+Worker 6 completed task 605
+Worker 0 completed task 609
+Worker 5 completed task 610
+Worker 1 completed task 618
+Worker 7 completed task 611
+Worker 4 completed task 620
+Worker 3 completed task 621
+Worker 2 completed task 627
+Worker 6 completed task 628
+Worker 0 completed task 632
+Worker 5 completed task 635
+Worker 1 completed task 646
+Worker 7 completed task 647
+Worker 4 completed task 662
+Worker 3 completed task 664
+Worker 2 completed task 665
+Worker 6 completed task 666
+Worker 0 completed task 667
+Worker 5 completed task 670
+Worker 1 completed task 671
+Worker 7 completed task 676
+Worker 4 completed task 677
+Worker 3 completed task 680
+Worker 2 completed task 682
+Worker 6 completed task 683
+Worker 0 completed task 688
+Worker 5 completed task 692
+Worker 1 completed task 695
+Worker 7 completed task 696
+Worker 3 completed task 719
+Worker 4 completed task 717
+Worker 2 completed task 721
+Worker 6 completed task 731
+Worker 0 completed task 732
+Worker 5 completed task 747
+Worker 1 completed task 748
+Worker 7 completed task 749
+Worker 3 completed task 751
+Worker 4 completed task 756
+Worker 2 completed task 759
+Worker 6 completed task 760
+Worker 0 completed task 762
+Worker 5 completed task 764
+Worker 1 completed task 768
+Worker 7 completed task 769
+Worker 3 completed task 770
+Worker 4 completed task 771
+Worker 2 completed task 775
+Worker 6 completed task 780
+Worker 0 completed task 781
+Worker 1 completed task 794
+Worker 5 completed task 791
+Worker 7 completed task 796
+Worker 3 completed task 797
+Worker 4 completed task 800
+Worker 2 completed task 801
+Worker 6 completed task 805
+Worker 0 completed task 806
+Worker 1 completed task 811
+Worker 5 completed task 812
+Worker 7 completed task 814
+Worker 3 completed task 815
+Worker 4 completed task 816
+Worker 2 completed task 817
+Worker 6 completed task 821
+Worker 0 completed task 824
+Worker 1 completed task 829
+Worker 5 completed task 834
+Worker 7 completed task 841
+Worker 3 completed task 845
+Worker 4 completed task 850
+Worker 2 completed task 854
+Worker 6 completed task 855
+Worker 0 completed task 863
+Worker 1 completed task 867
+Worker 5 completed task 870
+Worker 7 completed task 875
+Worker 3 completed task 876
+Worker 4 completed task 879
+Worker 2 completed task 882
+Worker 6 completed task 883
+Worker 0 completed task 884
+Worker 1 completed task 889
+Worker 5 completed task 892
+Worker 7 completed task 897
+Worker 3 completed task 904
+Worker 4 completed task 907
+Worker 2 completed task 910
+Worker 6 completed task 914
+Worker 0 completed task 915
+Worker 1 completed task 917
+Worker 5 completed task 922
+Worker 7 completed task 927
+Worker 3 completed task 928
+Worker 4 completed task 929
+Worker 2 completed task 931
+Worker 6 completed task 932
+Worker 0 completed task 933
+Worker 1 completed task 935
+Worker 5 completed task 941
+Worker 7 completed task 943
+Worker 3 completed task 945
+Worker 4 completed task 946
+Worker 2 completed task 950
+Worker 6 completed task 953
+Worker 0 completed task 957
+Worker 1 completed task 962
+Worker 5 completed task 965
+Worker 7 completed task 967
+Worker 3 completed task 968
+Worker 2 completed task 977
+Worker 4 completed task 972
+Worker 6 completed task 978
+Worker 0 completed task 979
+Worker 1 completed task 982
+Worker 5 completed task 986
+Worker 7 completed task 988
+Worker 3 completed task 991
+Worker 2 completed task 995
+Worker 4 completed task 998
+Worker 6 completed task 999
+
+===== Final Metrics =====
+Total tasks completed: 1000
+CPU tasks completed: 304
+IO tasks completed: 696
+Total runtime: 27.04s
+Average CPU usage: 88.22%
+Average wait time: 3510 ms
+Average turnaround time: 3711 ms
