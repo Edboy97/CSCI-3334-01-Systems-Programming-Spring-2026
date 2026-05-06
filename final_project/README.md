@@ -75,6 +75,3 @@ To build the project:
 1. Open the terminal 'bash' and then run 'cargo build'
 2. Once the cargo is build then run 'cargo run
 3. Remember to get the results that are need make sure to run the cargo like this, 'cargo run > fifo_results.txt' and 'cargo run > optimized_results.txt
-
-## Tool Use Disclosure
-**Tools used:** ChatGPT and Gemini were used to help with any debuggin issues I had. Both for a second options to see if I was on the right track on debugging certain areas of my code.
